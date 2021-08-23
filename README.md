@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mythicoder!
 - 👀 I’m interested in learning languages and designing stuff.
 - 🌱 I’m currently learning Java, JavaScript, Python, and ReactJS.
-- 💞️ I’m looking to collaborate on people who loves to create simple to complex projects including website applications and games.
+- 💞️ I’m looking to collaborate on people who loves to create simple to complex projects including website application and games.
 - 📫 You can reach me by sending me an email thru legendarycurl@gmail.com
 
 <!---
